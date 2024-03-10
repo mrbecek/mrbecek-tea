@@ -1,0 +1,26 @@
+{
+  "name": "@mrbecek/mrbecek-tea",
+  "version": "1.0.0",
+  "description": "Tea OSS Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrbecek/mrbecek-tea.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "mrbecek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrbecek/mrbecek-tea/issues"
+  },
+  "homepage": "https://github.com/mrbecek/mrbecek-tea#readme",
+  "dependencies": {
+    "mrbecek-tea": "^1.0.0"
+  },
+  "devDependencies": {}
+}
